@@ -21,6 +21,6 @@ Feel free to explore and utilize the dataset for your NLP and machine comprehens
 
 ## Acknowledgments
 
-I would like to express my gratitude to [Dr. Vlado Keselj](https://vlado.cs.dal.ca/) for supporting this research initiative.
+I am sincerely grateful to [Dr. Vlado Keselj](https://vlado.cs.dal.ca/) for his invaluable guidance and support throughout this research.
 
 Happy coding!
